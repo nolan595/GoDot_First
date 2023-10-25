@@ -1,3 +1,16 @@
-res://main.gd
 res://main.tscn
 res://world.tscn
+res://Frog.tscn
+res://rhino.tscn
+res://Player/Player.tscn
+res://Frog.gd
+res://rhino.gd
+res://Player/Player.gd
+res://Player/NewPlayer.gd
+res://Player/NewPlayer.tscn
+res://Global/Utils.gd
+res://main.gd
+res://Collectibles/coin.tscn
+res://game_over.tscn
+res://game_over.gd
+res://world.gd
